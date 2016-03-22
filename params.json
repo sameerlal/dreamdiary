@@ -1,0 +1,6 @@
+{
+  "name": "Dreamdiary",
+  "tagline": "Logs Dreams",
+  "body": "#Installation#\r\n\r\n1 Download Zip File above into your downloads folder.\r\n2  Drag the two files (Installation.command and NewDream.command) onto your desktop.  \r\n3  Double click Installation.command.  This will create a directory in your /user/Documents folder.  You can delete this file after double clicking.\r\n4  Double click NewDream.command each time you have a new dream you wish to add.  Organization is done automatically\r\n\r\n# Viewing Dreams#\r\n\r\nDreams are sorted by date.  You can find all of your dreams in /user/Documents/dreamdiary.  To view, open terminal and type:\r\n```\r\ncd ~/Documents/ && open dreamdiary\r\n```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
